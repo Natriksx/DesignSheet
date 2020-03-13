@@ -45,7 +45,7 @@ h1 {
     padding: 2.5rem 3.125rem;
     margin: 0.5rem;
     height: 9.375rem;
-    width: 15.625rem
+    width: 15.625rem;
 }
 
 #colors, #fonts {
@@ -147,8 +147,4 @@ ul.menu > li:hover > ul.submenu {
 
 .lora {
     font-family: 'Lora', serif;
-}
-
-#paletteblue .blue {
-    
 }
