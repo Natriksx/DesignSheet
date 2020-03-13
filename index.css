@@ -46,6 +46,8 @@ h1 {
     margin: 0.5rem;
     height: 9.375rem;
     width: 15.625rem;
+    /* Not sure */
+    max-width: 250px;
 }
 
 #colors, #fonts {
